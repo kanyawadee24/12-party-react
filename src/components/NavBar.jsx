@@ -11,7 +11,7 @@ const NavBar = () => {
               className="px-4 py-2 rounded-md hover:bg-[#585353] hover:ring hover:ring-gray-200 hover:text-white"
             >
               {" "}
-              Home{" "}
+              ✧ Home{" "}
             </Link>
           </li>
           <li>
@@ -20,7 +20,7 @@ const NavBar = () => {
               className="px-4 py-2 rounded-md hover:bg-[#585353] hover:ring hover:ring-gray-200 hover:text-white"
             >
               {" "}
-              Owner{" "}
+             ☺︎ Owner{" "}
             </Link>
           </li>
         </ul>
