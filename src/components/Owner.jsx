@@ -2,14 +2,15 @@ const Owner = () => {
   return (
     <div>
       <div className="flex flex-col items-center">
-        <h1 className="text-3xl font-bold py-5"> Mac - Group C - 39 😎</h1>
+        <h1 className="text-3xl font-bold py-5">12 PARTY - GENMATE C 🐼 </h1>
         <div className="my-5 ">
-          <img src="./kanya.JPG" alt="" className="rounded-full" />
+          <img src="./kanya.JPG" alt="" className="rounded-full w-[348px]" />
         </div>
         <div className="flex flex-col w-5/12">
           <h3 className="font-bold text-center">Short Biography</h3>
           <h3 className="text-center pt-5">
-            I am a Generation's Junior Software Developer Bootcamp graduate
+          ꒰ᐢ. .ᐢ꒱₊˚⊹
+            I am a Generation Junior Software Developer Bootcamp graduate
             seeking a Fullstack-developer position. I have 2+ years of work
             experience in research and design, which allowed me to develop
             communication and teamwork skills. I am eager to apply my previous
