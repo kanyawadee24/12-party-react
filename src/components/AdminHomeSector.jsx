@@ -11,13 +11,13 @@ function AdminHomeSector() {
       <div className="flex gap-5 justify-around mt-10">
         <Link
           to="/User"
-          className="bg-gray-500 text-white px-8 py-2 rounded-md hover:bg-gray-600 hover:ring hover:ring-gray-300"
+          className="bg-[#585353] text-white px-8 py-2 rounded-md hover:bg-gray-600 hover:ring hover:ring-gray-300"
         >
           User Home Sector
         </Link>
         <Link
           to="/Admin"
-          className="bg-gray-500 text-white px-8 py-2 rounded-md hover:bg-gray-600 hover:ring hover:ring-gray-300"
+          className="bg-[#585353] text-white px-8 py-2 rounded-md hover:bg-gray-600 hover:ring hover:ring-gray-300"
         >
           Admin Home Sector
         </Link>

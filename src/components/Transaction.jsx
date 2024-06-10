@@ -9,16 +9,16 @@ const Transaction = ({ items, deleteItem, setItems }) => {
              <thead className="bg-gray-50">
                <tr className="bg-gray-50">
                  <th className="px-6 py-3 text-left text-xs font-bold text-gray-500 uppercase tracking-wider ">
-                   Name
+                   Name🔍
                  </th>
                  <th className="px-6 py-3 text-left text-xs font-bold text-gray-500 uppercase tracking-wider">
-                   Last Name
+                   Last Name🔍
                  </th>
                  <th className="px-6 py-3 text-left text-xs font-bold text-gray-500 uppercase tracking-wider">
-                   Position
+                   Position📍
                  </th>
                  <th className="px-6 py-3 text-left text-xs font-bold text-gray-500 uppercase tracking-wider">
-                   Actions
+                   Delete🗑️
                  </th>
                </tr>
              </thead>
